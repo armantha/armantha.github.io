@@ -1,0 +1,50 @@
+#home {
+	color: red;
+	font-family: cursive;
+	border: 1px solid black;
+	height: 20px; width:65px;
+	position: fixed;
+}
+
+#about {
+	color: red;
+	font-family: cursive;
+	border: 1px solid black;
+	height: 20px; width:25px;
+	position: fixed;
+	margin: 0px 0px 0px 85px;
+}
+
+#resume {
+	color: red;
+	font-family: cursive;
+	border: 1px solid black;
+	height: 20px; width:57px;
+	margin: 0px 0px 0px 130px;
+	position: fixed;
+}
+
+#topbar {
+	border: 1px solid black;
+	position: fixed;
+	margin: 32px 0px 0px 0px;
+	width: 1350px;
+}
+
+#linkedin {
+	position: fixed;
+	margin: 0px 0px 0px	1300px;
+	font-family: cursive;
+	color: red;
+	font-weight: bolder;
+}
+
+#hslide {
+	position: absolute;
+	color: red;
+	background-color: white;
+	border: 5px solid maroon;
+	margin: 0px 0px 0px 500px;
+	text-align: center;
+	 
+}

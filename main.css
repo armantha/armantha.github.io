@@ -1,0 +1,133 @@
+#home {
+	color: red;
+	font-family: cursive;
+	border: 1px solid black;
+	height: 20px; width:65px;
+	position: fixed;
+}
+
+#about {
+	color: red;
+	font-family: cursive;
+	border: 1px solid black;
+	height: 20px; width:25px;
+	position: fixed;
+	margin: 0px 0px 0px 85px;
+}
+
+#resume {
+	color: red;
+	font-family: cursive;
+	border: 1px solid black;
+	height: 20px; width:57px;
+	position: fixed;
+	margin: 0px 0px 0px 130px;
+}
+
+#topbar {
+	border: 1px solid black;
+	position: fixed;
+	margin: 32px 0px 0px 0px;
+	width: 1350px;
+}
+
+#linkedin {
+	position: fixed;
+	margin: 0px 0px 0px	1300px;
+	font-family: cursive;
+	color: red;
+	font-weight: bold;
+}
+
+#dispic {
+	border-style: solid;
+	border-radius: 100%;
+	border-color: black;
+	margin: 0px 0px 0px 350px;
+	width: 200px; height: 200px;
+	position: absolute;
+}
+
+h1 {
+	background-color: red;
+	border: 5px solid black;
+	color: white;
+	width: 300px;
+	margin: 0px 0px 0px 700px;
+	text-align: center;
+	position: absolute;
+}
+
+.saptak {
+	position: absolute;
+	height: 150px; width: 150px;
+	background-color: #FFB6C1;	
+	margin: 350px 0px 0px 150px;
+	text-align: center;
+	border-radius: 5px;
+	display: table;
+	opacity: 0.5;
+} .csaptak {
+	color: red;
+	font-weight: bold; 
+	font-family: Verdana, Arial, Sans-Serif;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.perpendi {
+	position: absolute;
+	height: 150px; width: 150px;
+	background-color: red;	
+	margin: 350px 0px 0px 550px;
+	text-align: center;
+	border-radius: 5px;
+	display: table;
+	opacity: 0.5;
+} .cperpendi{
+	color: #FFB6C1;
+	font-weight: bold; 
+	font-family: Verdana, Arial, Sans-Serif;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.toddle {
+	position: absolute;
+	height: 150px; width: 150px;
+	background-color: black;	
+	margin: 350px 0px 0px 1025px;
+	text-align: center;
+	border-radius: 5px;
+	display: table;
+	opacity: 0.5;
+} .ctoddle {
+	color: yellow;
+	font-weight: bold; 
+	font-family: Verdana, Arial, Sans-Serif;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.blinker {
+	position: absolute;
+	height: 150px; width: 150px;
+	background-color: yellow;	
+	margin: 600px 0px 0px 150px;
+	text-align: center;
+	border-radius: 5px;
+	display: table;
+	opacity: 0.5;
+	} .cblinker {
+		color: black;
+	font-weight: bold; 
+	font-family: Verdana, Arial, Sans-Serif;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.contact {
+	color: red;
+	margin: 760px 0px 0px 0px;
+	position: absolute;
+}

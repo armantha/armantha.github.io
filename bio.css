@@ -1,0 +1,66 @@
+#home {
+	color: red;
+	font-family: cursive;
+	border: 1px solid black;
+	height: 20px; width:65px;
+	position: fixed;
+}
+
+#about {
+	color: red;
+	font-family: cursive;
+	border: 1px solid black;
+	height: 20px; width:25px;
+	position: fixed;
+	margin: 0px 0px 0px 85px;
+}
+
+#resume {
+	color: red;
+	font-family: cursive;
+	border: 1px solid black;
+	height: 20px; width:57px;
+	margin: 0px 0px 0px 130px;
+	position: fixed;
+}
+
+#topbar {
+	border: 1px solid black;
+	position: fixed;
+	margin: 32px 0px 0px 0px;
+	width: 1350px;
+}
+
+#linkedin {
+	position: fixed;
+	margin: 0px 0px 0px	1300px;
+	font-family: cursive;
+	color: red;
+	font-weight: bolder;
+}
+
+#mainplate {
+	background-color: black;
+	height: 800px; width: 300px;
+	margin: 40px 300px 20px 500px;
+	position: absolute;
+	border-radius: 50px;
+	color: white;
+	font-family: cursive;	
+}
+#mainplate #dispic {	
+	border-radius: 100%;	
+	margin: 20px 0px 20px 50px;
+	width: 200px; height: 200px;
+	position: relative;
+}
+
+.contact {
+	color: red;
+	margin: 820px 1100px 10px 0px;
+	position: absolute;
+}
+
+.socenter {
+	text-align: center;
+}
